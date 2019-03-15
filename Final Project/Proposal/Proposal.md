@@ -2,7 +2,7 @@
 ![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/Proposal/proposal.png)
 --------------------------------------------------------------------------------------------------------------------
 ### Work flow:
-# Breath in --> Stretch sensor expand --> serialRead number of resistance go up --> servos serialwrite the degree.
+###### Breath in --> Stretch sensor expand --> serialRead number of resistance go up --> servos serialwrite the degree.
 
 # Breath out --> Stretch sensor shrink --> serialRead number of resistance go down --> servos serialwrite the degree.
 
