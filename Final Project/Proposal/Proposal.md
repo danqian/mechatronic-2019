@@ -1,7 +1,7 @@
 
 ![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/Proposal/proposal.png)
 --------------------------------------------------------------------------------------------------------------------
-Work flow:
+### Work flow:
 Breath in --> Stretch sensor expand --> serialRead number of resistance go up --> servos serialwrite the degree.
 Breath out --> Stretch sensor shrink --> serialRead number of resistance go down --> servos serialwrite the degree.
 Further research:
@@ -11,7 +11,7 @@ Further research:
 	Learning knitting……
 	3. Wireless connection if needed
 --------------------------------------------------------------------------------------------------------------------	
-Components:
+### Components:
 
 Arduino Uno
 Conductive Rubber Cord
@@ -26,7 +26,7 @@ A breadboard
 Ringed Crimp Terminals
 Battery
 --------------------------------------------------------------------------------------------------------------------
-Resource:
+### Resource:
 
 ![Arduino T-shirt](https://create.arduino.cc/projecthub/Maddy/tv-tee-shirt-da8fb4?ref=tag&ref_id=wearables&offset=22)
 ![Self-made breath sensor](https://www.instructables.com/id/Quick-and-dirty-Respiration-Sensor/)
