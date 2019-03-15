@@ -1,5 +1,5 @@
 
-![](mechatronic-2019/Final Project/Proposal/proposal.png)
+![SKETCH](mechatronic-2019/Final Project/Proposal/proposal.png)
 --------------------------------------------------------------------------------------------------------------------
 Work flow:
 Breath in --> Stretch sensor expand --> serialRead number of resistance go up --> servos serialwrite the degree.
@@ -28,7 +28,7 @@ Battery
 --------------------------------------------------------------------------------------------------------------------
 Resource:
 
-[Arduino T-shirt](https://create.arduino.cc/projecthub/Maddy/tv-tee-shirt-da8fb4?ref=tag&ref_id=wearables&offset=22)
-[Self-made breath sensor](https://www.instructables.com/id/Quick-and-dirty-Respiration-Sensor/)
-[Self-made breath sensor-WEAVE](https://www.instructables.com/id/DIY-Breath-Sensor-with-Arduino-Conductive-Knitted-/)
-[Stretch sensor rubber](https://www.adafruit.com/product/519)
+![Arduino T-shirt](https://create.arduino.cc/projecthub/Maddy/tv-tee-shirt-da8fb4?ref=tag&ref_id=wearables&offset=22)
+![Self-made breath sensor](https://www.instructables.com/id/Quick-and-dirty-Respiration-Sensor/)
+![Self-made breath sensor-WEAVE](https://www.instructables.com/id/DIY-Breath-Sensor-with-Arduino-Conductive-Knitted-/)
+![Stretch sensor rubber](https://www.adafruit.com/product/519)
