@@ -2,14 +2,17 @@
 ![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/Proposal/proposal.png)
 --------------------------------------------------------------------------------------------------------------------
 ### Work flow:
-Breath in --> Stretch sensor expand --> serialRead number of resistance go up --> servos serialwrite the degree.
-Breath out --> Stretch sensor shrink --> serialRead number of resistance go down --> servos serialwrite the degree.
-Further research:
-	1. Structure of breathing on the T-shirt. It should be super compactable.
-	Learning sewing……
-	2. Test 2 tutorials of breathing sensor(rubber stretch sensor/knitted band)
-	Learning knitting……
-	3. Wireless connection if needed
+# Breath in --> Stretch sensor expand --> serialRead number of resistance go up --> servos serialwrite the degree.
+
+# Breath out --> Stretch sensor shrink --> serialRead number of resistance go down --> servos serialwrite the degree.
+
+### Further research:
+
+# 1. Structure of breathing on the T-shirt. It should be super compactable.
+# Learning sewing……
+# 2. Test 2 tutorials of breathing sensor(rubber stretch sensor/knitted band)
+# Learning knitting……
+# 3. Wireless connection if needed
 --------------------------------------------------------------------------------------------------------------------	
 ### Components:
 
