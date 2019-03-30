@@ -52,6 +52,10 @@
 
 ###### [Arduino T-shirt](https://create.arduino.cc/projecthub/Maddy/tv-tee-shirt-da8fb4?ref=tag&ref_id=wearables&offset=22)
 ###### [Self-made breath sensor](https://www.instructables.com/id/Quick-and-dirty-Respiration-Sensor/)
+###### test Ω of rubber band: Loose Status:720 Tight:1600
+###### R(pull down)= squareroot(Rmin * Rmax)
+###### R(pull down)= squareroot(720 * 1600)= 1073.312629199899054276403360991≈ 1070
+###### How could I get 1070Ω resistor?
 ###### [Self-made breath sensor-WEAVE](https://www.instructables.com/id/DIY-Breath-Sensor-with-Arduino-Conductive-Knitted-/)
 ###### [Stretch sensor rubber](https://www.adafruit.com/product/519)
 
