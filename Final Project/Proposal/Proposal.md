@@ -59,6 +59,5 @@
 ###### [Self-made breath sensor-WEAVE](https://www.instructables.com/id/DIY-Breath-Sensor-with-Arduino-Conductive-Knitted-/)
 ###### [Stretch sensor rubber](https://www.adafruit.com/product/519)
 ###### [skill builder working with shape memory alloy](https://makezine.com/2012/01/31/skill-builder-working-with-shape-memory-alloy/)
-
-
+###### [Nitinol Wire/Shape Memory Alloy - How to Use it](https://www.youtube.com/watch?v=4Yi4epJ83EE)
 
