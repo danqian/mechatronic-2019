@@ -58,7 +58,7 @@
 ###### How could I get 1070Ω resistor?
 ###### [Self-made breath sensor-WEAVE](https://www.instructables.com/id/DIY-Breath-Sensor-with-Arduino-Conductive-Knitted-/)
 ###### [Stretch sensor rubber](https://www.adafruit.com/product/519)
-
+###### [skill builder working with shape memory alloy](https://makezine.com/2012/01/31/skill-builder-working-with-shape-memory-alloy/)
 
 
 
