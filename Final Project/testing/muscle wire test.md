@@ -8,7 +8,7 @@
  2. Test to figure out the input current of muscle wire: 
     I activate the wire with a transformer, when the voltage goes to 4.5v it begin to slowly move, and I tried to directly set voltage to   6v, it moves much faster.
 ######    Here are the videos:
-######    [4.5V3A](https://github.com/danqian/Final Project/media/muscle wire/4.5V3A.mp4)          [6V4A](https://github.com/danqian/mechatronic-2019/blob/master/Final Project/media/muscle wire/6V4A.mp4)
+######    [4.5V3A](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/muscle%20wire/4.5V3A.mp4)          [6V4A](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/muscle%20wire/6V4A.mp4)
 
 
 
