@@ -39,6 +39,8 @@ Here is the code: [breathsensor_servocontrol](https://github.com/danqian/mechatr
 
 Next week:  
 smoothing:
-https://michaelthessel.com/analog-smoothing-library-for-arduino/
-https://github.com/MattFryer/Smoothed
+  * https://www.arduino.cc/en/tutorial/smoothing
+  libraries
+  * https://michaelthessel.com/analog-smoothing-library-for-arduino/
+  * https://github.com/MattFryer/Smoothed
 .
