@@ -33,4 +33,7 @@
 ### 3. Coding
 #### The Rubber sensor works much better than the weaved one. Thus I am trying to mapping the reading numbers on Servos degrees.
 The rubber breathing sensor controls Servo motors like this: [Servo control](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/code_servo%20control/breath%20sensor%20servo%20control.mp4)
+
+Here is the code: [breathsensor_servocontrol](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/code/breathsensor_servocontrol.ino)
+
 .
