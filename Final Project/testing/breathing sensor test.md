@@ -19,15 +19,18 @@
 ### 2. Rubber band breathing sensor
 #### This sensor is using stetch sensor to detect the chest movement of breathing. 
 
-#### ![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/Proposal/proposal.png)
+#### ![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/rubber%20stretch%20sensor/4in%20strech%20sensor.jpg)
+#### ![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/rubber%20stretch%20sensor/stetch%20sensor%20attached%20on%20circuit.jpg)
+#### ![WEAR IT!](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/rubber%20stretch%20sensor/wearable%20breath%20sensor.jpg)
 
-* Video shows how it works:[breath sensor video testing](https://www.instructables.com/id/DIY-Breath-Sensor-with-Arduino-Conductive-Knitted-/)
+* Video shows how it works:
+[LED control](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/code_servo%20control/breathing%20sensor%20LED%20control.MOV)
 
-* Here is the reference: [Self-made breath sensor-WEAVE](https://www.instructables.com/id/DIY-Breath-Sensor-with-Arduino-Conductive-Knitted-/)
+* Here is the reference: [Self-made breath sensor](https://www.instructables.com/id/Quick-and-dirty-Respiration-Sensor/)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------
 ### 3. Coding
-This sensor works much better than the weaved one. Thus I am trying to mapping the reading numbers on Servos degrees.
-
+#### The Rubber sensor works much better than the weaved one. Thus I am trying to mapping the reading numbers on Servos degrees.
+The rubber breathing sensor controls Servo motors like this: [Servo control](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/code_servo%20control/breath%20sensor%20servo%20control.mp4)
 .
