@@ -36,4 +36,9 @@ The rubber breathing sensor controls Servo motors like this: [Servo control](htt
 
 Here is the code: [breathsensor_servocontrol](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/code/breathsensor_servocontrol.ino)
 
+
+Next week:  
+smoothing:
+https://michaelthessel.com/analog-smoothing-library-for-arduino/
+https://github.com/MattFryer/Smoothed
 .
