@@ -38,7 +38,19 @@ Mechanism exporing process and experiments, Please click [here!!!](https://githu
 * Sewing kit
 * PCB board
 
-# A few pictures of overall project plus some close ups of the electronics and any mechanism
+# Pictures of overall project
+![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/Tshirt-BreathingSensor-5V%20Power%20Supply.jpg)
+![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/Thirt%20and%20breathing%20sensor.jpg)
+![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/T-shit-inside%20connection.jpg
+)
+![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/plate_inside.jpg)
+
+[How does it work](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/mechanism_final.mp4)
+
+
+[](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/nano%20with%20PCB.jpg)
+![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/PCB%20for%20nano.jpg)
+
 
 # A short video of the operational project
 
