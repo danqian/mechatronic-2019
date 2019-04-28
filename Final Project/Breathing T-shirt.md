@@ -39,10 +39,22 @@ Mechanism exporing process and experiments, Please click [here!!!](https://githu
 * PCB board
 
 # Pictures of overall project
+
+* 3 objects
+
 ![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/Tshirt-BreathingSensor-5V%20Power%20Supply.jpg)
+
+* Outside look
+
 ![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/Thirt%20and%20breathing%20sensor.jpg)
+
+* Inside connections
+
 ![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/T-shit-inside%20connection.jpg
 )
+
+* Mechanism and PCB Board
+
 ![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/plate_inside.jpg)
 
 [How does the motor work inside?](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/mechanism_final.mp4)
@@ -57,4 +69,4 @@ Mechanism exporing process and experiments, Please click [here!!!](https://githu
 * [Hand Testing - Wearable interactive T-shirt](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/Handhold%20testing.mp4)
 
 # Code
-[CODECODECODE](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/code/Nano_Breath_Sensor_Servo.ino)
+[CODE Download](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/code/Nano_Breath_Sensor_Servo.ino)
