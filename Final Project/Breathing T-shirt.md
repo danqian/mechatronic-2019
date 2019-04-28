@@ -6,11 +6,12 @@ Choice of hardware and software achieves that goal
 * The arduino board to drive the motorwould is the Nano which is small enough for wearable devices 
 
 # Accurate schematic
+![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/FinalWriteUp/schematic_1.jpg)
 
 # Parts list
 
 ### Breath sensor:
-For more exporing process and experiments, Please click [here!!!](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/testing/breathing%20sensor%20test.md)
+I tested two DIY breath sensors. For more details, Please click [here!!!](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/testing/breathing%20sensor%20test.md)
 
 * Conductive Rubber Cord
 * Conductive Terminals
@@ -25,7 +26,7 @@ For more exporing process and experiments, Please click [here!!!](https://github
 
 
 ### T-shirt:
-For more mechanism exporing process and experiments, Please click [here!!!](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/testing/Breathing%20structure%20testing.md)
+Mechanism exporing process and experiments, Please click [here!!!](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/testing/Breathing%20structure%20testing.md)
 
 * T-shirt
 * Arcylic ring
