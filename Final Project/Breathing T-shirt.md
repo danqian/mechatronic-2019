@@ -1,11 +1,11 @@
-# Goals of project briefly
+# Goals of project
 My project is to make a T-shirt that reflect people's breathing state.
 
 Choice of hardware and software achieves that goal
 * I chose rubber stretch as the main part of Breath detector, because it is sensitive and accurate. This amazing cord will act as a variable resistor, and will change in resistance as it is stretched or released. * 
 * The arduino board to drive the motorwould is the Nano which is small enough for wearable devices 
 
-# Accurate schematic
+# Schematic
 ![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/FinalWriteUp/schematic_1.jpg)
 
 # Parts list
