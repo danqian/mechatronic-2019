@@ -53,8 +53,8 @@ Mechanism exporing process and experiments, Please click [here!!!](https://githu
 
 
 # Video of the operational project
-[Body Testing - Wearable interactive T-shirt](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/wearing.mp4)
-[Hand Testing - Wearable interactive T-shirt](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/Handhold%20testing.mp4)
+* [Body Testing - Wearable interactive T-shirt](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/wearing.mp4)
+* [Hand Testing - Wearable interactive T-shirt](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/Handhold%20testing.mp4)
 
 # Code
-[Hand Testing - Wearable interactive T-shirt](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/Handhold%20testing.mp4)
+[CODECODECODE](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/code/Nano_Breath_Sensor_Servo.ino)
