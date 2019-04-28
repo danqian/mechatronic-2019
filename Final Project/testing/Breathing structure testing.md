@@ -1,5 +1,5 @@
 # Breathing structure testing
-_____________________________________________________________________________________________________________________________
+
 ## 1. Key structures
  
  * Basement to support motors: vacuum forming
@@ -13,17 +13,39 @@ ________________________________________________________________________________
  * Structure guiding the fabric to move, attached to motor cap
  
 ![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/motor%20control%20structure/structure%20to%20lead%20fabric%20moving.jpg)
-_____________________________________________________________________________________________________________________________
+
 ## 2. Working Videos
 Workable test sample: Breathing pad
 ![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/motor%20control%20structure/breathing%20pad%20attached%20on%20clothing.jpg)
 
 
-#### Here are two videos show how it work with breath sensor.
+Here are two videos show how it work with breath sensor.
  * [breathing pad with stretching control](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/motor%20control%20structure/breathing%20pad%20with%20stetching%20control.mp4)
  * [breathing pad with human breathing control](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/motor%20control%20structure/breathing%20pad%20with%20human%20breathing%20control.mp4)
- _____________________________________________________________________________________________________________________________
- ## 3. Faliures
+
+## 3. asemblying on T-shirt
+
+ * circuit
+
+![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/assemblying%20on%20T-shirt/circuit.jpg)
+
+ * T-shirt inside
+
+![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/assemblying%20on%20T-shirt/T-shirt_inside.jpg)
+
+ * T-shirt outside
+
+![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/assemblying%20on%20T-shirt/T-shirt_outside.jpg)
+
+
+Here are two videos show how it works.
+ *  [Relationship between sensor and mechanism](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/assemblying%20on%20T-shirt/relationship%20between%20sensor%20and%20mechanism.MOV)
+ 
+ *  [worked T-shirt](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/assemblying%20on%20T-shirt/assembled%20T-shirt.mp4)
+
+
+
+## 4. Faliures
  
  * I was trying to use only on motor to make fabric move. It failed due to the limited space for up-down contraptions.
  
