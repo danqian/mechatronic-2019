@@ -45,17 +45,16 @@ Mechanism exporing process and experiments, Please click [here!!!](https://githu
 )
 ![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/plate_inside.jpg)
 
-[How does it work](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/mechanism_final.mp4)
+[How does the motor work inside?](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/mechanism_final.mp4)
 
 
-[](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/nano%20with%20PCB.jpg)
+![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/nano%20with%20PCB.jpg)
 ![](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/PCB%20for%20nano.jpg)
 
 
-# A short video of the operational project
+# Video of the operational project
+[Body Testing - Wearable interactive T-shirt](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/wearing.mp4)
+[Hand Testing - Wearable interactive T-shirt](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/Handhold%20testing.mp4)
 
 # Code
-Program(s) must be well commented
-Each variable must have a meaningful name
-Each section (function, code block, loop, whatever) must be explained
-All unused variables and code must be removed (commented out debug code may remain)
+[Hand Testing - Wearable interactive T-shirt](https://github.com/danqian/mechatronic-2019/blob/master/Final%20Project/media/breadboard%20to%20nano/Handhold%20testing.mp4)
